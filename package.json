@@ -5,13 +5,12 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev" : "nodemon server"
+    "dev": "nodemon server"
   },
   "author": "Rahul Anand Sahu",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.29.1",
     "socket.io": "^4.1.2"
   },
   "devDependencies": {
